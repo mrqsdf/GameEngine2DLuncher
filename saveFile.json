@@ -1,0 +1,14 @@
+{
+  "projects": [
+    {
+      "name": "NewProject",
+      "groupId": "fr.mqsdf",
+      "savePath": "C:\\Users\\Public\\Documents\\GameEngine2D\\MyProjects"
+    },
+    {
+      "name": "ProjectTest",
+      "groupId": "fr.mqsdf",
+      "savePath": "C:\\Users\\Public\\Documents\\GameEngine2D\\MyProjects"
+    }
+  ]
+}
